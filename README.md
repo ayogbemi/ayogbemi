@@ -7,7 +7,7 @@ I have long been fascinated by how things work, particularly in relation to comp
 I hold a degree in Biology and have recently completed an associate degree in Cybersecurity. I am eager to learn new things and have demonstrated a capacity for rapid learning. My profound interest in technology drives my dedication to solving complex problems.
 
 ## Objective
-My problem-solving abilities and hands-on experience in technology equip me to enhance organizational security and support proactive incident response efforts. I am seeking to leverage my analytical skills and technical knowledge as a SOC Analyst. Passionate about identifying and mitigating security threats, I am committed to continuous learning and staying abreast of industry developments to contribute effectively to a dynamic security operations team.
+My problem-solving abilities and hands-on experience in technology equip me to enhance organizational security and support proactive incident response efforts. I am seeking to leverage my analytical skills and technical knowledge as a SOC Analyst. I am passionate about identifying and mitigating security threats and committed to continuous learning and staying abreast of industry developments to contribute effectively to a dynamic security operations team.
 ## Skills
 
 | Skill                                         | Associated Project         |
