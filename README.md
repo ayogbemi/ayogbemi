@@ -9,7 +9,6 @@ I hold a degree in Biology and have recently completed an associate degree in Cy
 ## Objective
 My problem-solving abilities and hands-on experience in technology equip me to enhance organizational security and support proactive incident response efforts. I am seeking to leverage my analytical skills and technical knowledge as a SOC Analyst. Passionate about identifying and mitigating security threats, I am committed to continuous learning and staying abreast of industry developments to contribute effectively to a dynamic security operations team.
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -21,7 +20,7 @@ My problem-solving abilities and hands-on experience in technology equip me to e
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
