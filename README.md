@@ -2,9 +2,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ayo-gbemi-1143b2216 "Ayoola\'s LinkedIn Profile")
 
-[Brief Introduction - Remove this afterwards]
+I have long been fascinated by how things work, particularly in relation to computers. During my teenage years, I would disassemble my watches and Walkman devices to explore their internal components, and I would then reassemble them. Sometimes, they functioned properly upon reassembly; other times, they did not. In instances where they failed to work, I would persistently disassemble and reassemble them until I either managed to restore functionality or repurposed the parts to repair other broken watches.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I hold a degree in Biology and have recently completed an associate degree in Cybersecurity. I am eager to learn new things and have demonstrated a capacity for rapid learning. My profound interest in technology drives my dedication to solving complex problems.
 
 ## Objective
 My problem-solving abilities and hands-on experience in technology equip me to enhance organizational security and support proactive incident response efforts. I am seeking to leverage my analytical skills and technical knowledge as a SOC Analyst. Passionate about identifying and mitigating security threats, I am committed to continuous learning and staying abreast of industry developments to contribute effectively to a dynamic security operations team.
