@@ -1,5 +1,4 @@
 # Hello, I'm Ayoola Ogungbemi
-<a href="www.linkedin.com/in/ayo-gbemi-1143b2216"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ayo-gbemi-1143b2216 "Ayoola\'s LinkedIn Profile")
 
@@ -8,10 +7,7 @@
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
+My problem-solving abilities and hands-on experience in technology equip me to enhance organizational security and support proactive incident response efforts. I am seeking to leverage my analytical skills and technical knowledge as a SOC Analyst. Passionate about identifying and mitigating security threats, I am committed to continuous learning and staying abreast of industry developments to contribute effectively to a dynamic security operations team.
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
@@ -48,14 +44,24 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+
+[![CompTIA](https://img.shields.io/badge/Security%2B-Black?style=for-the-badge&logo=Comptia&logoSize=auto&color=%23ff0000)](https://www.credly.com/badges/62ac297d-db6e-4fe8-b478-daaedccbc4d2/public_url "Ayoola's Security+ Cert")
+[![NCSF](https://img.shields.io/badge/NCSF-FINALIST-WHITE?style=for-the-badge&logo=ONETRUST&logoSize=auto&labelColor=%23002147&color=%231E90FF)
+](https://badgr.com/public/assertions/Ui66hGQSTJijT9aJC4RkjA?identity__email=aogungbemi1@student.ccc.edu "National Cybrsecurity Scholarship Foundation")
+
+[![Amazon AWS](https://img.shields.io/badge/Cloud-Practitioner-Orange?style=for-the-badge&logo=Amazon&logoSize=auto&color=%23FFA500)](https://www.credly.com/badges/c1dae5b9-c946-4b5e-93cd-7c2ee44b9e31/public_urll "Ayoola's Amazon AWS Cert")
+[![SANs](https://img.shields.io/badge/SANS-ALUMNI-WHITE?style=for-the-badge&logo=ONETRUST&logoSize=auto&labelColor=%231F456E&color=%23FFFFFF)
+](https://badgr.com/public/assertions/zOBQBD8WST6BdaC2E0MPsQ "SANS Alumni")
+
+[![GSEC](https://img.shields.io/badge/GIAC-SECURITY-BLUE?style=for-the-badge&logo=SANS&logoSize=auto&labelColor=%23d4af37&color=%230000FF)](https://www.credly.com/badges/2db9107f-d523-4da2-b8ed-a44bc7833649 "Ayoola's GSEC Cert")
+[![GFACT](https://img.shields.io/badge/GIAC-GFACT-BLUE?style=for-the-badge&logo=SANS&logoSize=auto&labelColor=%23d4af37&color=%230000FF)](https://www.credly.com/badges/44d4a904-458f-4a73-99d4-95a9cf344c1c/linked_in_profile "Ayoola's GFACT Cert")
+
+[![Onetrust](https://img.shields.io/badge/Onetrust-GRC-Professional?style=for-the-badge&logo=ONETRUST&logoSize=auto&labelColor=%23056608&color=%23D3D3D3)
+](https://www.credly.com/badges/c15fd2fb-a34b-4aa1-832c-542f603f6786/public_url
+ "Ayoola's Onetrust Cert")
+ 
+[![Onetrust](https://img.shields.io/badge/Onetrust-TechRisk%26Compliance-Professional?style=for-the-badge&logo=ONETRUST&logoSize=auto&labelColor=%23056608&color=%23D3D3D3)
+](https://www.credly.com/badges/4f3bb644-e54f-48c9-8ba9-8d49fa569ad5/public_url "Ayoola's Onetrust Cert")
 
 ## Projects
 - Detection Lab
