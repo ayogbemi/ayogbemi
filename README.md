@@ -1,6 +1,6 @@
 # Hello, I'm Ayoola Ogungbemi
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayo-gbemi-1143b2216 "Ayoola's LinkedIn Profile")
+Click [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayo-gbemi-1143b2216 "Ayoola's LinkedIn Profile") to view my LinkedIn
 
 I have long been fascinated by how things work, particularly in relation to computers. During my teenage years, I would disassemble my watches and Walkman devices to explore their internal components, and I would then reassemble them. Sometimes, they functioned properly upon reassembly; other times, they did not. In instances where they failed to work, I would persistently disassemble and reassemble them until I either managed to restore functionality or repurposed the parts to repair other broken watches.
 
