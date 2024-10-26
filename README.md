@@ -44,6 +44,8 @@ My problem-solving abilities and hands-on experience in technology equip me to e
 
 ## Certifications
 
+---Click any of the Certification to view or verify my badges---
+
 [![GSEC](https://img.shields.io/badge/GIAC-SECURITY-BLUE?style=for-the-badge&logo=SANS&logoSize=auto&labelColor=%23d4af37&color=%230000FF)](https://www.credly.com/badges/2db9107f-d523-4da2-b8ed-a44bc7833649 "Ayoola's GSEC Cert")
 [![GFACT](https://img.shields.io/badge/GIAC-GFACT-BLUE?style=for-the-badge&logo=SANS&logoSize=auto&labelColor=%23d4af37&color=%230000FF)](https://www.credly.com/badges/44d4a904-458f-4a73-99d4-95a9cf344c1c/linked_in_profile "Ayoola's GFACT Cert")
 
