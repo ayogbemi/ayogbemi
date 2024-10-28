@@ -68,5 +68,5 @@ My problem-solving abilities and hands-on experience in technology equip me to e
 
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- [x] Detection Lab
+- [ ] Automation Project
